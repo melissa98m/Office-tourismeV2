@@ -1,0 +1,19 @@
+/* Liste des feuilles de style */
+
+@import "assets/css/App";
+
+@import "assets/css/component/_partials/footer";
+@import "assets/css/component/_partials/navbar";
+@import "assets/css/component/_partials/theme";
+@import "assets/css/services/auth";
+
+@import "assets/css/component/home";
+@import "assets/css/component/type";
+@import "assets/css/component/address";
+@import "assets/css/component/place";
+@import "assets/css/component/article";
+
+.leaflet-container {
+  width: 100%;
+  height: 40vh;
+}
